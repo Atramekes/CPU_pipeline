@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/ISEp/pipeline_plus/mips_tf_isim_beh.exe" -prj "D:/ISEp/pipeline_plus/mips_tf_beh.prj" "work.mips_tf" "work.glbl" 
